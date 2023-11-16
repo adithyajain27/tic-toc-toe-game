@@ -28,11 +28,11 @@ Ensure you have Python installed on your machine. Run the script by executing th
 python tic_tac_toe.py
 ```
 
-##** Dependencies**
+## ** Dependencies**
 1. Python 3.x
 
 
-###_Notes_
+### _Notes_
 This game uses a simple random move generation for the computer player.
 
 1. **The code is written in Python and designed for a console-based interface.**
