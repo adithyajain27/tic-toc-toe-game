@@ -26,6 +26,7 @@ Ensure you have Python installed on your machine. Run the script by executing th
 
 ```bash
 python tic_tac_toe.py
+```
 
 ##** Dependencies**
 1. Python 3.x
